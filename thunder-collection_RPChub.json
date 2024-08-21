@@ -1,0 +1,35 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "RPChub",
+    "collectionId": "7b046e9b-adb0-4494-b0ed-7bbecd979976",
+    "dateExported": "2024-08-21T17:04:02.878Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "e96df452-aa60-4fca-8ef2-926579eb0703",
+            "colId": "7b046e9b-adb0-4494-b0ed-7bbecd979976",
+            "containerId": "",
+            "name": "getBlockNumber",
+            "url": "http://localhost:8080/?chain_id=1",
+            "method": "POST",
+            "sortNum": 10000,
+            "created": "2024-08-21T17:03:02.693Z",
+            "modified": "2024-08-21T17:03:18.278Z",
+            "headers": [],
+            "params": [
+                {
+                    "name": "chain_id",
+                    "value": "1",
+                    "isPath": false
+                }
+            ],
+            "body": {
+                "type": "json",
+                "raw": "{\n    \"jsonrpc\":\"2.0\",\n    \"method\":\"eth_blockNumber\",\n    \"params\":[],\n    \"id\":1\n}",
+                "form": []
+            }
+        }
+    ],
+    "ref": "JE3tygrjiDT2-6iGFbxPw0McR_2MwlEXVNGOLrHy_DftlPTrjZthqrYf4nOsge47iW9rpBNZPORSnV6sLxkwXg"
+}
