@@ -2,13 +2,13 @@
   "chains": {
     "1": [
       "https://ethereum.blockpi.network/v1/rpc/public",
-      "https://eth-mainnet.g.alchemy.com/v2/lkpSqQ3ObmCVJ_GifQVqnzIDJbZ5-EV_",
-      "ethereumRPC3"
+      "https://eth.llamarpc.com",
+      "https://rpc.ankr.com/eth"
     ],
     "42161": [
       "https://arbitrum-one.publicnode.com",
-      "https://rpc.ankr.com/arbitrum/b1e07098390242bab8c761d31855f26a63d455cd107558400ac948684fbb9eb0",
-      "arbitrumRPC3"
+      "https://arbitrum.llamarpc.com",
+      "https://rpc.ankr.com/arbitrum"
     ]
   }
 }
